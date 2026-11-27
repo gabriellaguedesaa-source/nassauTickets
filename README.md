@@ -88,5 +88,5 @@ npm run dev
 
 | Nome | Matrícula | Papel |
 | :--- | :--- | :--- |
-| Giovanna Lima | 01830311 | Scrum Master |
-| Luma Rodrigues | 01833902 | Testador |
+| Gabriella Guedes | 01847354 | Scrum Master |
+| Helena Nunes |01792836 | Testador |
